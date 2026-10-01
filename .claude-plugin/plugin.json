@@ -1,6 +1,6 @@
 {
   "name": "yourgpt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Analyze customer conversations, spot recurring issues, fix knowledge gaps, and tune YourGPT agents for better answers.",
   "author": {
     "name": "YourGPT",
@@ -14,6 +14,7 @@
     "yourgpt knowledge"
   ],
   "license": "MIT",
+  "displayName": "YourGPT",
   "icon": "./assets/icon.png",
   "privacyPolicyUrl": "https://yourgpt.ai/privacy"
 }
